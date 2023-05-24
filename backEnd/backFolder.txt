@@ -1,5 +1,0 @@
-backend folder runs on node.js 
-
-current npm installs include:
-express
-twilio 
